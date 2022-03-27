@@ -62,7 +62,7 @@ font-weight: bold;
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-display:flex is a property  that transitions the content of a tag into something that is easily moved around on the x and y axis.
+display:flex is a property  that transitions the elements into something that is easily moved around on the x and y axis.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
