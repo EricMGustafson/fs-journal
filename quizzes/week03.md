@@ -36,27 +36,27 @@ let property = 'name'
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
 ```
-
+  A proxy is an object that is an instance of another and has special operations to access the original object.
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
 <!-- enter you answer in the space below -->
 ```
-
+  The MVC pattern separates the view from the data and functions so that the website only displays what the end user needs.
 ```
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
 <!-- enter you answer in the space below -->
 ```
-
+  Acts as a liason between the view and the service.  It controls the logic between the them.
 ```
 
 **9.** What is the job of the `Service` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+  Accesses the data from the model.  This is also where the controller sends functions when the data needs to be manipulated.
 ```
 **10.** What is the job of the `Model` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+  This is where the data is stored and also shapes what the data will look like at the view.
 ```
