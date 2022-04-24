@@ -13,7 +13,7 @@ Create/Post Read/Get Update/Put Delete/Delete
 **3.** What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 <!-- enter you answer in the space below -->
 ```
-
+object relational mapping
 ```
 **4.** Which two `HTTP` request types include a body?
 <!-- enter you answer in the space below -->
@@ -43,11 +43,11 @@ It is 3rd party API that provide extra functionality to base API. Things like au
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
 ```
-
+  request/return
 ```
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
-
+?tag=winter
 ```
