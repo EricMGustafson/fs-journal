@@ -3,7 +3,7 @@
 **1.** What is the entrypoint of an application?
 <!-- enter you answer in the space below -->
 ```
-
+index.html
 ```
 **2.** What is the difference between a vue `component` and `page`?
 <!-- enter you answer in the space below -->
@@ -33,7 +33,7 @@ Template, script, style
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
-
+the AppState shares data throughout the entire app and the state object is available only to the compnent it exists on.
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
