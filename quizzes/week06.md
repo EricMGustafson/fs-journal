@@ -13,7 +13,7 @@ a page is the entire view and a component is a small part of the page that can b
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+the v-for feature
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
@@ -28,7 +28,7 @@ Template, script, style
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
 ```
-
+App.vue
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
@@ -43,7 +43,7 @@ Services still handle manipulation of data and speaking to servers/apis.
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
 ```
-
+the main.js file
 ```
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
 <!-- enter you answer in the space below -->
