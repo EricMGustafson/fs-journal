@@ -4,9 +4,8 @@
 **1.** Describe the two ways to bind Data in Vue?
 <!-- enter you answer in the space below -->
 ```
-
+Using v-model and v-bind (:)
 ```
-
 **2.** The `SPA` acronym stands for what?
 <!-- enter you answer in the space below -->
 ```
@@ -40,7 +39,7 @@ The v-if/else attributes.
 **8.** What is the purpose of the `key` attribute when using `v-for` on an element?
 <!-- enter you answer in the space below -->
 ```
-
+The key attribute is how the v-for loop keeps track of which data item it has iterated through
 ```
 **9.** What is the `<slot>` element and what is it used for?
 <!-- enter you answer in the space below -->
